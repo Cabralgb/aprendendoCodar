@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Esse é o meu site de estudo, escolhi você para ser minha companhia nele. Acompanhe meu progresso!</h1>
+    return <h1>Letícia, você é o amor da minha vida, tenho muita sorte em tê-lá ao meu lado, TE AMO! </h1>
 }
 
 export default Home;
